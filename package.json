@@ -1,0 +1,27 @@
+{
+  "name": "vite-plugin-import-to-require",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aztack/vite-plugin-import-to-require.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aztack/vite-plugin-import-to-require/issues"
+  },
+  "homepage": "https://github.com/aztack/vite-plugin-import-to-require#readme",
+  "dependencies": {
+    "typescript": "^5.1.3",
+    "vite": "^4.3.9"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5"
+  }
+}
