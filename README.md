@@ -1,7 +1,7 @@
 # vite-plugin-import-to-require
 
-This Vite plugin transforms all import statements of node builtin modules to `global.require`.
-This feature may need for vite+nw.js projects.
+This Vite plugin transforms all import statements of Node.js built-in modules to global.require.
+This feature may be necessary for Vite+nw.js projects.
 
 ```ts
 import { defineConfig } from 'vite'
